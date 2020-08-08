@@ -1,6 +1,6 @@
 {
-  "homepage": "https://themukeshpatel.github.io/telegram-web/",
-  "name": "telegram-web",
+  "homepage": "https://themukeshpatel.github.io/telegram-react/",
+  "name": "telegram-react",
   "version": "0.0.692",
   "private": true,
   "dependencies": {
